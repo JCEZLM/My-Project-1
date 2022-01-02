@@ -1,0 +1,74 @@
+.navBar
+{
+    font-size: 15px;
+}
+
+#linkNav
+{
+    text-align: right;
+}
+
+.navBar .navItems
+{
+    padding-left: 17px;
+    text-decoration: none;
+    color: inherit;
+    color: white;
+   
+}
+
+.midleft
+{
+    color: blue;
+    display: inline-block;
+    width: 45%;
+}
+
+.midleft .logIn
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.japan
+{
+    color: white;
+    background-color: rgb(86, 86, 243);
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    font-size: 19px;
+}
+
+#midNote
+{
+    font-size: 80px;
+    color: violet;
+}
+
+.midleft p
+{
+    font-size: 19px;
+}
+
+.midright
+{
+    text-align: right;
+    display: inline-block;
+    color: white;
+}
+
+.bottomAnchorBar
+{
+    color: white;
+    background-color: purple;
+    margin-top: 10px;
+    border-style: solid ;
+}
+
+.bottomAnchorBar span
+{
+    padding-left: 17px;
+    padding-bottom: 20px;
+
+}
